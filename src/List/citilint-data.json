@@ -1,0 +1,9 @@
+[
+    {"item_name":"Computer_Kopaev","quantity":"5 штук","reserve":"20 штук"},
+    {"item_name":"Printer_Kopaev","quantity":"3 штук","reserve":"30 штук"},
+    {"item_name":"Telephone_Kopaev","quantity":"14 штук","reserve":"15 штук"},
+    {"item_name":"Car_Kopaev","quantity":"10 штук","reserve":"17 штук"},
+    {"item_name":"Audio_Kopaev","quantity":"41 штук","reserve":"87 штук"},
+    {"item_name":"Mouse_Kopaev","quantity":"18 штук","reserve":"34 штук"},
+    {"item_name":"Klaviatura_Kopaev","quantity":"32 штук","reserve":"55 штук"}
+]
